@@ -12,7 +12,7 @@ from core.exceptions.base import APIError, SessionRateLimited, ServerError, Prox
 from loader import config
 
 
-
+ 
 
 class APIClient:
     EXTENSION_API_URL = "https://www.aeropres.in/chromeapi/dawn"
